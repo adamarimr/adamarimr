@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hey! I'm Adamari, web developer actively learning</h1>
+  <h1>Hey! I'm Adamari, Web Developer actively learning!</h1>
 </div>
 
 <div id="badges" align="center">
